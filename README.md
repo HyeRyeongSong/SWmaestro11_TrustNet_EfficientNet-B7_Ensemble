@@ -1,4 +1,4 @@
-# Deepfake Detection Challenge
+# Deepfake Detection(TrustNet)
 ## Prerequisites
 ### Environment
 Use the docker to get an environment close to what was used in the training. Run the following command to build the docker image:
